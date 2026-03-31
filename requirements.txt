@@ -1,0 +1,29 @@
+# Shared
+gradio
+pymupdf
+faiss-cpu
+pillow
+pdf2image
+opencv-python-headless
+nltk
+numpy
+torch
+
+# V1: DocTR + DeepSeek
+python-doctr[torch]
+FlagEmbedding
+replicate
+nest_asyncio
+requests
+
+# V2: Chandra OCR
+# (uses FlagEmbedding + replicate from above)
+
+# V3: Multi-tier fallback
+groq
+pdfplumber
+pypdf2
+sentence-transformers
+pytesseract
+easyocr
+python-dotenv
