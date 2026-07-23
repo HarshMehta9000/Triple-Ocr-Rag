@@ -1,5 +1,10 @@
 # Mortgage Document Intelligence System
 
+> **Live interactive walkthrough:** https://triplemodelrag.vercel.app
+> An interactive companion site (in [`site/`](./site)) covers the RAG pipeline, chunking
+> and embedding techniques, 3D vector retrieval, a guardrailed chatbot, security, evals,
+> and impact. See [`site/README.md`](./site/README.md) for GIFs and details.
+
 | | |
 | :---: | :---: |
 | ![Tocr 1](Tocr1.jpg) | ![Tocr 2](Tocr2.jpg) |

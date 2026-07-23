@@ -2,7 +2,7 @@
 
 Interactive companion site for the [Triple-Ocr-Rag](https://github.com/HarshMehta9000/Triple-Ocr-Rag) project.
 
-**Live:** _added after deploy_ · **Demos:** `public/` GIFs
+**Live:** https://triplemodelrag.vercel.app · **Demos:** `public/` GIFs
 
 <p align="center">
   <img src="public/pipeline-flow.gif" width="100%" alt="Live pipeline simulation with cost and review-time counters" />
